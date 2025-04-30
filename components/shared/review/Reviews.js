@@ -1,9 +1,5 @@
 "use client";
-/**
- * Title: Reviews Component
- * Author: Hasibul Islam
- * Date: 05, October 2023
- */
+
 
 import React, { useEffect, useMemo } from "react";
 import { AiFillStar } from "react-icons/ai";

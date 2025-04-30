@@ -110,5 +110,3 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY="YOUR_STRIPE_SECRET_KEY"
 
 # Source
 
-- Developer - [Hasibul Islam](https://www.linkedin.com/in/devhasibulislam/)
-- Designer - [MD Saiful Islam ](https://www.linkedin.com/in/md-saiful-islam-361959220/)
